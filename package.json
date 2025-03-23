@@ -1,12 +1,7 @@
 {
   "name": "fuqia-e-fjales",
   "version": "0.1.0",
-  "homepage": "https://Krisli24.github.io/fuqia-e-fjales",  // Sigurohu që URL-ja është si kjo
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  "homepage": "https://Krisli24.github.io/fuqia-e-fjales"
   },
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
