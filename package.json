@@ -1,7 +1,7 @@
 {
   "name": "fuqia-e-fjales",
   "version": "0.1.0",
-  "homepage": "https://krisli24.github.io/fuqi-e-fjales",  // Sigurohu që URL-ja është si kjo
+  "homepage": "https://Krisli24.github.io/fuqia-e-fjales",  // Sigurohu që URL-ja është si kjo
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
