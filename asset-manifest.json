@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fuqia-e-fjales/static/css/main.80fd68df.css",
+    "main.js": "/fuqia-e-fjales/static/js/main.3338f514.js",
+    "static/js/453.5661f78f.chunk.js": "/fuqia-e-fjales/static/js/453.5661f78f.chunk.js",
+    "index.html": "/fuqia-e-fjales/index.html",
+    "main.80fd68df.css.map": "/fuqia-e-fjales/static/css/main.80fd68df.css.map",
+    "main.3338f514.js.map": "/fuqia-e-fjales/static/js/main.3338f514.js.map",
+    "453.5661f78f.chunk.js.map": "/fuqia-e-fjales/static/js/453.5661f78f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80fd68df.css",
+    "static/js/main.3338f514.js"
+  ]
+}
